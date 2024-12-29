@@ -1,0 +1,37 @@
+{
+    "Maths": [
+        {"question": "How many sides does a square have?", "answer": "4"},
+        {"question": "110 divided by 10 is", "answer": "11"},
+        {
+            "question": "Find the missing terms in multiple of 3: 3, 6, 9, __, 15: ",
+            "answer": "12"
+        }
+    ],
+    "English": [
+        {
+            "question": "What is the term for a word that sounds like the noise it represents?",
+            "answer": "Onomatopoeia"
+        },
+        {"question": "What is the opposite of “synonym”?", "answer": "Antonym"},
+        {
+            "question": "What is the correct plural form of the word “cactus”?",
+            "answer": "Cacti"
+        }
+    ],
+    "Science": [
+        {"question": "How many planets are in the solar system?", "answer": "8"},
+        {"question": "How many bones are in the human body?", "answer": "206"},
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "answer": "Diamond"
+        }
+    ],
+    "History": [
+        {"question": "What language was spoken in Ancient Rome?", "answer": "Latin"},
+        {"question": "In what year did the French Revolution start?", "answer": "1789"},
+        {
+            "question": "How many years did the Hundred Years’ War last?",
+            "answer": "116"
+        }
+    ]
+}
