@@ -15,3 +15,6 @@ Quizzer Game is an interactive quiz app built using Python and Pygame. Players e
 ### 3. Answer all questions in that category
 
 ### 4. Get Result!
+
+## Screenshots
+![image alt](https://github.com/Uremisan/Quizzer/blob/82e3404d8945afaed996ad39e8d4f938573af5f5/Screenshot%202024-12-29%20at%2019.37.56.png)
